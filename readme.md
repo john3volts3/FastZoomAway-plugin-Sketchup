@@ -13,7 +13,7 @@ When the keyboard shortcut is used, the plugin quickly zooms out the current vie
 This version is set to work correctly with the metre as the unit.
 
 INSTALLATION: 
- - Save the file fastZoomAway.rbz in the directory of your choice.
+ - Save the file fastZoomAway.rbz in the directory of your choice. (the .rbz file is nothing other than the .rb file that has been zipped and changed to .rbz)
  - Use the extension manager in the Window menu to add the plugin
  - Associate a keyboard shortcut in Window/Preference
 
@@ -37,7 +37,7 @@ Lorsque le raccourci clavier est utilisé, le plugin dézoome rapidement la vue 
 Cette version est réglée pour marcher correctement avec le metre comme unité.
 
 INSTALLATION : 
- - Sauver le fichier fastZoomAway.rbz dans le répertoire de votre choix.
+ - Sauver le fichier fastZoomAway.rbz dans le répertoire de votre choix. (le fichier .rbz n'est rien d'autre que le fichier .rb qui a été zippé et dont l'extension a été modifiée en .rbz)
  - Utiliser le manager d'extension dans le menu Fenêtre pour ajouter le plugin
  - Associer un raccourci clavier dans Window/Preference
 
