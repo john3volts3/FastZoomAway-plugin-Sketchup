@@ -12,6 +12,14 @@ When the keyboard shortcut is used, the plugin quickly zooms out the current vie
 
 This version is set to work correctly with the metre as the unit.
 
+INSTALLATION: 
+ - Save the file fastZoomAway.rbz in the directory of your choice.
+ - Use the extension manager in the Window menu to add the plugin
+ - Associate a keyboard shortcut in Window/Preference
+
+USE : 
+ When you are zoomed in on a part of an object and you want to move to another area of the object, you just have to use the shortcut key, several times or by keeping it pressed to use the autorepeat. Then the Zoom Window tool is selected and you can zoom in again by selecting the new work area.
+
 -----------------------------------
 
 FastZoomAway - Navigation rapide autour des grands objets.
@@ -27,5 +35,13 @@ Pour utiliser FastZoomAway, il est conseillé d'y associer un raccourci clavier 
 Lorsque le raccourci clavier est utilisé, le plugin dézoome rapidement la vue actuelle et recentre la vue sur un autre point du modèle.
 
 Cette version est réglée pour marcher correctement avec le metre comme unité.
+
+INSTALLATION : 
+ - Sauver le fichier fastZoomAway.rbz dans le répertoire de votre choix.
+ - Utiliser le manager d'extension dans le menu Fenêtre pour ajouter le plugin
+ - Associer un raccourci clavier dans Window/Preference
+
+UTILISATION : 
+ Quand on est fort zoomé sur une partie d'un objet et que l'on désire se déplacer vers une autre zone de l'objet, il suffit d'utiliser la touche de raccourcis, plusieurs fois ou en la gardant enfoncée pour utiliser l'autorepeat. Puis l'outil Zoom Window est sélectionné, il suffit de re zoomer en sélectionnant la nouvelle zone de travail.
 
 
