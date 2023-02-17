@@ -13,6 +13,8 @@
 
 # This version is set to work correctly with the metre as the unit.
 
+# -------------------------------------
+
 # FastZoomAway - Navigation rapide autour des grands objets.
 # Un plugin pour Sketchup qui permet de dézoomer rapidement d'une vue actuelle.
 
